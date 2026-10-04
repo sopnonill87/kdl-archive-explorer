@@ -1,0 +1,93 @@
+[
+    {
+        "id": "gpp-001",
+        "title": "Letter from King George III to William Pitt the Younger",
+        "creator": "George III",
+        "dateCreated": "1783-09-14",
+        "subjectTags": [
+            "Politics",
+            "American Revolution",
+            "Correspondence"
+        ],
+        "metadata": {
+            "language": "English",
+            "physicalFormat": "Manuscript",
+            "repository": "Royal Archives",
+            "digitisationDate": "2018-04-12"
+        },
+        "rightsStatement": "Crown Copyright. Available for non-commercial research.",
+        "isRestricted": false
+    },
+    {
+        "id": "indigenous-009",
+        "title": "Oral History Recording: Elders of the Coastal Region",
+        "creator": "Community Elders",
+        "dateCreated": "1995-11-20",
+        "subjectTags": [
+            "Oral History",
+            "Indigenous Knowledge",
+            "Audio"
+        ],
+        "metadata": {
+            "language": "Local Dialect",
+            "duration": "45 minutes",
+            "accessProtocol": "Community governed"
+        },
+        "rightsStatement": "Restricted. Access requires approval from the Indigenous Data Governance Committee.",
+        "isRestricted": true
+    },
+    {
+        "id": "crossreads-042",
+        "title": "Inscription Fragment from Ancient Syracuse",
+        "creator": "Unknown Artisan",
+        "dateCreated": "-0212-05-03",
+        "subjectTags": [
+            "Epigraphy",
+            "Ancient History",
+            "Sicily"
+        ],
+        "metadata": {
+            "language": "Ancient Greek",
+            "material": "Marble",
+            "dimensions": "12cm x 8cm"
+        },
+        "rightsStatement": "CC BY-NC 4.0",
+        "isRestricted": false
+    },
+    {
+        "id": "ml-corpus-112",
+        "title": "19th Century Census Transcriptions (Training Set)",
+        "creator": "Historical Data Consortium",
+        "dateCreated": "1851-03-30",
+        "subjectTags": [
+            "Demographics",
+            "Machine Learning",
+            "Transcription"
+        ],
+        "metadata": {
+            "recordCount": 15420,
+            "ocrConfidenceScore": 0.87,
+            "annotatedBy": "Volunteer Network"
+        },
+        "rightsStatement": "Open Access. Public Domain.",
+        "isRestricted": false
+    },
+    {
+        "id": "art-history-088",
+        "title": "Catalogue Raisonné: Unattributed Renaissance Sketches",
+        "creator": "Workshop of Andrea del Verrocchio",
+        "dateCreated": "1475-08-11",
+        "subjectTags": [
+            "Art History",
+            "Renaissance",
+            "Visual Culture"
+        ],
+        "metadata": {
+            "medium": "Silverpoint on paper",
+            "provenance": "Uffizi Gallery Archive",
+            "highResScanAvailable": true
+        },
+        "rightsStatement": "Restricted. High-resolution images available only to accredited researchers.",
+        "isRestricted": true
+    }
+]
